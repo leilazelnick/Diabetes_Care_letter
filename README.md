@@ -6,7 +6,7 @@ Simulation code to accompany "Comment on 'Optimization of Albuminuria-Lowering T
 Author: Leila Zelnick, PhD, University of Washington
 Email: lzelnick@uw.edu
 
-#The following code runs a simulation illustrating the methodological
+The following code runs a simulation illustrating the methodological
 issues with the design of the trial implemented in Curovic et al.
 (Diabetes Care, 2023). Specifically, the issue stems from the
 selective inference induced by comparing the "winner" drug class
