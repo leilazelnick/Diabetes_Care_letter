@@ -4,6 +4,7 @@ The code in this repository illustrates the methodological issues with the prima
 Simulation code to accompany "Comment on 'Optimization of Albuminuria-Lowering Treatment in Diabetes by Crossover Rotation to Four Different Drug Classes: A Randomized Crossover Trial' by Curovic et al. (2023)" (https://pubmed.ncbi.nlm.nih.gov/36657986/)
 
 Author: Leila Zelnick, PhD, University of Washington
+
 Email: lzelnick@uw.edu
 
 The following code runs a simulation illustrating the methodological
