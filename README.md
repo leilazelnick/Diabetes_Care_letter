@@ -1,7 +1,5 @@
 # Diabetes_Care_letter
-The code in this repository illustrates the methodological issues with the primary outcome used in Curovic et al. (Diabetes Care, 2023). 
-
-Simulation code to accompany "Comment on 'Optimization of Albuminuria-Lowering Treatment in Diabetes by Crossover Rotation to Four Different Drug Classes: A Randomized Crossover Trial' by Curovic et al. (2023)" (https://pubmed.ncbi.nlm.nih.gov/36657986/)
+The code in this repository illustrates the methodological issues with the primary outcome used in Curovic et al. (Diabetes Care, 2023), "Optimization of Albuminuria-Lowering Treatment in Diabetes by Crossover Rotation to Four Different Drug Classes: A Randomized Crossover Trial" (https://pubmed.ncbi.nlm.nih.gov/36657986/)
 
 Author: Leila Zelnick, PhD, University of Washington
 
